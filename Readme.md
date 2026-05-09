@@ -33,3 +33,6 @@ Definelty i will add Better search engine and Actual dataset first.
 I would make a seprate file to keep all same functioning API's so that  i wont need to use them in code directly.
 I would also introduce filters in the app if user wants to filter on a particular aspect like rating>3 or milage > 20 ans so on 
 
+### just run docker compose build to run this project locally. 
+command: `sudo docker compose up --build`   --- sudo if you need to have admin permissions. else `docker compose up --build`
+
